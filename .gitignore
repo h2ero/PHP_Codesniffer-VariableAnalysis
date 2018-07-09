@@ -2,3 +2,7 @@ util/
 mybuild
 mytest
 myrun
+*.sw*
+.DS_Store
+tags
+vendor/*
